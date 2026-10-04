@@ -1,0 +1,182 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "riley-jurecek",
+  "name": {
+    "first": "Riley",
+    "last": "Jurecek",
+    "full": "Riley Jurecek",
+    "preferred": "Riley"
+  },
+  "tagline": "Three seasons on the Orange Squad.",
+  "headline": "Texas Spirit · Orange Squad Cheer",
+  "eventGroup": "other",
+  "events": [
+    "Coed cheer (Orange Squad)"
+  ],
+  "hometown": "Pflugerville, Texas",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Communication and Leadership",
+    "classYear": "Senior",
+    "gradDate": "Expected May 2027"
+  },
+  "contact": {
+    "email": "riley.j@feniex.com"
+  },
+  "bio": {
+    "short": "Riley Jurecek cheered for the University of Texas on the Orange Squad, the Longhorns' coed cheer team, for three seasons. A Communication and Leadership major from Pflugerville, she was a 2026 Project Manager Intern at Feniex Industries in Austin.",
+    "long": [
+      "Riley Jurecek made the University of Texas Orange Squad, the Longhorns' coed cheerleading team, as a freshman in 2023-24. She returned as a second-year member in 2024-25 and was named among the veterans on the 2025-26 squad after spring tryouts, giving her three seasons in the Texas Spirit program. Coed cheer is built on partner stunts, where timing, trust and precision between teammates decide whether a routine works, and a place on the squad has to be earned again each spring.",
+      "She grew up in Pflugerville, just north of Austin, and came to Texas from Hendrickson High School. At UT she majors in Communication and Leadership, a field centered on how people share information and how groups and organizations are led. That focus sits naturally beside three years of team performance, where every routine depends on clear signals, shared counts and teammates who arrive prepared. Her path has stayed close to home: from Pflugerville to the Forty Acres to a project role in Austin.",
+      "In 2026 she joined Feniex Industries, the Austin manufacturer of emergency-vehicle lighting and sirens, as a Project Manager Intern. The role draws on what cheer and her studies have trained: keeping engineering, production and sales on the same page, writing updates that people can act on, and holding a schedule together when many hands touch one project. Learning a routine to a fixed date and performing it in front of a crowd is practice for exactly that kind of work."
+    ]
+  },
+  "stats": [
+    {
+      "label": "Seasons on the Texas Orange Squad",
+      "value": "3",
+      "note": "Coed cheer, 2023-24 to 2025-26"
+    },
+    {
+      "label": "Joined the Orange Squad as a freshman",
+      "value": "2023",
+      "note": "Texas Spirit program, 2023-24"
+    },
+    {
+      "label": "Project Manager Intern",
+      "value": "2026",
+      "note": "Feniex Industries, Austin"
+    }
+  ],
+  "prs": [],
+  "timeline": [
+    {
+      "year": "2023",
+      "title": "Joined the Orange Squad",
+      "detail": "Made the University of Texas coed cheer squad as a freshman, coming from Hendrickson High School in Pflugerville."
+    },
+    {
+      "year": "2024",
+      "title": "Second season",
+      "detail": "Returned to the Orange Squad as a second-year member for 2024-25."
+    },
+    {
+      "year": "2025",
+      "title": "Named a veteran",
+      "detail": "Selected as a returning veteran on the 2025-26 Texas Orange Squad after spring tryouts."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Joined the project team at the Austin manufacturer of emergency-vehicle lighting and electronics."
+    }
+  ],
+  "honors": [],
+  "inTheirWords": [],
+  "press": [],
+  "strengths": [
+    {
+      "title": "Earns Her Spot",
+      "detail": "She made the Orange Squad as a freshman and was selected again as a veteran, a place that has to be won back through tryouts."
+    },
+    {
+      "title": "Reliability",
+      "detail": "Coed partner stunts only work when every teammate does their part on time, and she trained that way for three seasons."
+    },
+    {
+      "title": "Preparation",
+      "detail": "Cheer routines are rehearsed until they are right by a fixed date, the same rhythm as delivering project work on schedule."
+    },
+    {
+      "title": "Communication",
+      "detail": "Her Communication and Leadership major centers on how people share information and lead groups, the core of keeping stakeholders aligned."
+    }
+  ],
+  "resume": {
+    "summary": "Communication and Leadership major at The University of Texas at Austin and three-season member of the Texas Orange Squad (coed cheer). Project Manager Intern at Feniex Industries, keeping cross-functional teams aligned through clear status updates, schedules and documentation.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Prepared status updates and meeting notes to keep engineering, production and sales stakeholders aligned on project priorities.",
+          "Coordinated timelines and follow-ups across teams at an Austin manufacturer of emergency-vehicle lighting, sirens and controllers.",
+          "Documented team processes in plain-language guides for consistent day-to-day reference.",
+          "Used Claude and other AI tools daily to draft communications, summarize discussions and organize project information."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Bachelor of Science, Communication and Leadership",
+        "dates": "2023–Expected May 2027",
+        "details": []
+      },
+      {
+        "school": "Hendrickson High School, Pflugerville, TX",
+        "degree": "High School Diploma",
+        "dates": "2023",
+        "details": []
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Cheerleader, Orange Squad (Coed)",
+        "org": "University of Texas Spirit Program",
+        "dates": "2023–2026",
+        "bullets": [
+          "Selected for the Orange Squad as a freshman (2023-24) and returned as a second-year member (2024-25).",
+          "Named a returning veteran on the 2025-26 squad following spring tryouts."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Scheduling",
+        "Stakeholder Communication",
+        "Status Reporting",
+        "Process Documentation",
+        "Organizational Communication",
+        "Written Communication"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude and other AI tools"
+      ],
+      "languages": []
+    },
+    "honors": []
+  },
+  "hamzaQuote": {
+    "text": "Riley spent three seasons on the Orange Squad, where every stunt depends on the person next to you showing up ready. She brought that same reliability to Feniex, and she kept people informed without anyone having to ask.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.455,
+      "y": 0.395,
+      "zoom": 1.5
+    },
+    "portrait": "athlete.jpg",
+    "action": []
+  },
+  "photoCredits": [
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://riley-jurecek.vercel.app"
+  },
+  "seo": {
+    "title": "Riley Jurecek | Texas Spirit · Project Management",
+    "description": "Riley Jurecek: three-season Texas Orange Squad cheerleader and Communication and Leadership major. 2026 Project Manager Intern at Feniex Industries."
+  },
+  "noindex": true
+}
